@@ -1,0 +1,1 @@
+pip3 install cmake 'gym[atari]' scipy
